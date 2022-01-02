@@ -1,6 +1,8 @@
 ### Hi there, I am Toba 👋
 
-<h3 align="center">A passionate frontend developer from Nigeria, I enjoy using responsive design ideas and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying. In some ways, I think I'm like those web pages; I'm malleable, yet I still have my creative flair.</h3>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+
+##  I enjoy using responsive design ideas and seeing how my web pages shrink and still look great on mobile devices. It's strangely gratifying. In some ways, I think I'm like those web pages; I'm malleable, yet I still have my creative flair.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
